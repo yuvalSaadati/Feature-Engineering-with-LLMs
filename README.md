@@ -38,7 +38,7 @@ Additionally, there are **four result notebooks**, each containing detailed plot
 - **`results_6.ipynb`** – Eucalyptus dataset (**Index 6**)
 - **`results_8.ipynb`** – Airlines dataset (**Index 8**)
 
-### **Modifying the Dataset in `main.py`**
+### **Modifying the Dataset in `main.ipynb`**
 To run the experiments on a different dataset, **change the dataset index** in `main.py` as indicated in the comments:
 
 | Dataset    | Index |
@@ -48,7 +48,7 @@ To run the experiments on a different dataset, **change the dataset index** in `
 | **Eucalyptus** | 6 |
 | **Airlines**   | 8 |
 
-Example (change `dataset_index` in `main.py`):
+Example (change `dataset_index` in `main.ipynb`):
 
 ```python
 dataset_index = 4  # Change to 2, 4, 6, or 8
