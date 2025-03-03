@@ -1,0 +1,23 @@
+# Core dependencies
+openai==0.28
+kaggle
+openml==0.12.0
+tabpfn
+google-genai
+dowhy
+tqdm
+boruta
+pickle-mixin
+
+# Additional machine learning and preprocessing dependencies
+matplotlib
+seaborn
+
+# Required for causal inference
+causalml
+econml
+
+# Feature selection and model dependencies
+xgboost
+lightgbm
+catboost
